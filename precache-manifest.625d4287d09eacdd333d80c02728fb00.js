@@ -1,19 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bc31d7334847a987fa7ebd72c959710d",
+    "revision": "783e8b02044df4d426b2081d6c01c32a",
     "url": "/index.html"
   },
   {
-    "revision": "06f44b8cfd62e95b85f1",
-    "url": "/static/css/main.517c3633.chunk.css"
+    "revision": "26d9e1d878666fb1d4d6",
+    "url": "/static/css/2.e61fc129.chunk.css"
   },
   {
-    "revision": "c42dc2210950c65de6e3",
-    "url": "/static/js/2.006f3bb6.chunk.js"
+    "revision": "900dc5d030faec46ca92",
+    "url": "/static/css/main.f5a260d1.chunk.css"
   },
   {
-    "revision": "06f44b8cfd62e95b85f1",
-    "url": "/static/js/main.ab687eaa.chunk.js"
+    "revision": "26d9e1d878666fb1d4d6",
+    "url": "/static/js/2.8669675e.chunk.js"
+  },
+  {
+    "revision": "900dc5d030faec46ca92",
+    "url": "/static/js/main.3dc95cca.chunk.js"
   },
   {
     "revision": "41dc2fea4fd565fc2ed6",
@@ -72,8 +76,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/T恤.37c9d7a0.jpg"
   },
   {
+    "revision": "1cedb6e919bfed6a2c1ec00b5d8ee620",
+    "url": "/static/media/UploadIcon.1cedb6e9.svg"
+  },
+  {
     "revision": "bf50398b5d3279a5c66e961c2baba03d",
     "url": "/static/media/ads_background.bf50398b.png"
+  },
+  {
+    "revision": "1a885a6bb6e5ed985bbf3a8496e816db",
+    "url": "/static/media/back.1a885a6b.svg"
   },
   {
     "revision": "ab0b62c1862efc780b568292655044ed",
@@ -92,8 +104,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/iMac Pro.8944bf90.jpg"
   },
   {
-    "revision": "b656329c5c67470126f4401abdd6274b",
-    "url": "/static/media/lemonjing_background3.b656329c.jpg"
+    "revision": "16bb4d8e40daa939179d4348f03f0581",
+    "url": "/static/media/lemonjing_background3.16bb4d8e.jpg"
+  },
+  {
+    "revision": "5577e26328a489333325ce3f9e3c78cf",
+    "url": "/static/media/love.5577e263.jpg"
   },
   {
     "revision": "2075f1fd44c2683631e703b1adeed299",
@@ -108,8 +124,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/monitor.25e9b718.png"
   },
   {
+    "revision": "b23878721b2482697a776e4958c5c080",
+    "url": "/static/media/person.b2387872.svg"
+  },
+  {
+    "revision": "117209e677e7d43989b5283d4da09aa1",
+    "url": "/static/media/plus-cycle.117209e6.svg"
+  },
+  {
     "revision": "2588f77a11ba100c44c5657f04392ce0",
     "url": "/static/media/qrcode.2588f77a.jpg"
+  },
+  {
+    "revision": "3115eadf8388dfd5de68ca78de8924ee",
+    "url": "/static/media/replay.3115eadf.svg"
   },
   {
     "revision": "27408ea183be6f07f282a6cb47e4b56c",
@@ -118,6 +146,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0eaba10af559cc0d2b72cda71c7a3b41",
     "url": "/static/media/shadiao_icon.0eaba10a.png"
+  },
+  {
+    "revision": "ace9913cfbdd5e7455514dcaaf7583b8",
+    "url": "/static/media/share.ace9913c.svg"
+  },
+  {
+    "revision": "26cd0018cddfc4738f46be4d6ae589a0",
+    "url": "/static/media/smile-face.26cd0018.svg"
+  },
+  {
+    "revision": "f824f5965161db621860b936ad8498b5",
+    "url": "/static/media/voice.f824f596.svg"
   },
   {
     "revision": "3dd4094e855fab60598539f3eaa69471",
@@ -666,6 +706,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0f00f00dcb068a9e015d2cb8d4bd3e7c",
     "url": "/static/media/零食大礼包.0f00f00d.jpg"
+  },
+  {
+    "revision": "9efdb5075b58fb2ff5df4e8ac8552ed8",
+    "url": "/static/media/首富二维码.9efdb507.png"
+  },
+  {
+    "revision": "6ad3733e3b0b334af389bc194c20fa59",
+    "url": "/static/media/首富模拟器.6ad3733e.png"
   },
   {
     "revision": "1f7ffeb9caef958b2aac62643f580097",
