@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.44a8e223.css",
-    "main.js": "/static/js/main.e8803d39.js",
+    "main.js": "/static/js/main.02463685.js",
     "static/media/卡通贴纸.jpg": "/static/media/卡通贴纸.8aec8ce46e7798e638bd.jpg",
     "static/media/泡泡胶.jpg": "/static/media/泡泡胶.9ca5d6c512617678ec90.jpg",
     "static/media/石头巧克力.jpg": "/static/media/石头巧克力.c8534da934d16ece9d22.jpg",
@@ -185,10 +185,10 @@
     "static/media/plus-cycle.svg": "/static/media/plus-cycle.2b1e977c7eef63b8345b.svg",
     "static/media/person.svg": "/static/media/person.f72ef693053e2e3bef36.svg",
     "main.44a8e223.css.map": "/static/css/main.44a8e223.css.map",
-    "main.e8803d39.js.map": "/static/js/main.e8803d39.js.map"
+    "main.02463685.js.map": "/static/js/main.02463685.js.map"
   },
   "entrypoints": [
     "static/css/main.44a8e223.css",
-    "static/js/main.e8803d39.js"
+    "static/js/main.02463685.js"
   ]
 }
